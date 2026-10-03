@@ -167,3 +167,4 @@ es el problema: es una pista falsa. El detalle está en
 - [ ] Redactar las entradas pendientes del índice, 3 a 10, con síntoma, causa y solución
       verificada
 - [ ] Incorporar los problemas que aparezcan durante el ensayo previo a la primera sesión
+
